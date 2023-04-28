@@ -8,6 +8,7 @@
                     "Topaz"
                ],
                "supported_types": [
+                    "Stable",
                     "Alpha"
                ],
                "active": true,
