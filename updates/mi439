@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-05-10",
+      "datetime": "1683486906",
+      "filename": "aospa-topaz-2-mi439-20230507.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-2-mi439-20230507.zip",
+      "fastboot": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "5fee6bced5a4c0b224f5e985d9359145fa151b1bc740ed661af363c07e1aed08",
+      "size": "1551154742",
+      "build_type": "Stable",
+      "version_code": "2",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-05-05",
+      "changelog_device": ""
+    },
+    {
       "date": "2023-04-21",
       "datetime": "1681988727",
       "filename": "aospa-topaz-1-mi439-20230420.zip",
