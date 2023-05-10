@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-05-10",
+      "datetime": "1683673584",
+      "filename": "aospa-topaz-2-alioth-20230509.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-2-alioth-20230509.zip",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-2-alioth-20230509-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "02f9c3430cff388f16cbbe1e7485fa205631af0ef7246b0196a231c58a359e98",
+      "size": "2114105946",
+      "build_type": "Stable",
+      "version_code": "2",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-05-05",
+      "changelog_device": "Note: MIUI 14 Firmware is required"
+    },
+    {
       "date": "2023-04-27",
       "datetime": "1682537403",
       "filename": "aospa-topaz-1-alioth-20230426.zip",
