@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-05-10",
+      "datetime": "1683472354",
+      "filename": "aospa-topaz-3-lmi-20230507.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-3-lmi-20230507.zip",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-3-lmi-20230507-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "567bff6c8865a41f7ff18376c91d9ee77b9c3794575027fa69700b204fbd3085",
+      "size": "2408537525",
+      "build_type": "Stable",
+      "version_code": "3",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-05-05",
+      "changelog_device": "Bug fixes and performance improvements"
+    },
+    {
       "date": "2023-04-21",
       "datetime": "1682000330",
       "filename": "aospa-topaz-2-lmi-20230420.zip",
