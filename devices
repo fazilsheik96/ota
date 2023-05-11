@@ -433,6 +433,7 @@
                     "Topaz"
                ],
                "supported_types": [
+                    "Stable",
                     "Beta"
                ],
                "active": true,
@@ -611,6 +612,7 @@
                     "Topaz"
                ],
                "supported_types": [
+                    "Stable",
                     "Beta"
                ],
                "active": true,
