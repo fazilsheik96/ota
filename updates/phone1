@@ -1,8 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-05-11",
+      "datetime": "1683763200",
+      "filename": "aospa-topaz-3-phone1-20230511.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-3-phone1-20230511.zip",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-3-phone1-20230511-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "0b426f2a10bcb89c6f905c3b8510f94fe4432af6bff486312db80e9087783fe6",
+      "size": "1817082705",
+      "build_type": "Stable",
+      "version_code": "3",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-05-05",
+      "changelog_device": "Major vibration improvements, fixed low microphone volume in some scenarios, performance enchancements and updated configurations to latest NothingOS"
+    },
+    {
       "date": "2023-04-23",
-      "datetime": " 1682208000",
+      "datetime": "1682208000",
       "filename": "aospa-topaz-2-phone1-20230423.zip",
       "url": "https://builds.paranoidandroid.co/aospa-topaz-2-phone1-20230423.zip",
       "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-2-phone1-20230423-image.zip",
@@ -14,7 +31,7 @@
       "version_code": "2",
       "version": "Topaz",
       "android_version": "13",
-      "android_spl": "2023-045-05",
+      "android_spl": "2023-04-05",
       "changelog_device": "Updated to lastest kernel sources, Added call and notifications patterns, Added Music Visualizer / Disco Mode to Glyph, Performance improvements and bug fixes."
     },
     {
