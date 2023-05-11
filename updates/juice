@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-05-11",
+      "datetime": "1683709766",
+      "filename": "aospa-topaz-beta-2-juice-20230510.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-beta-2-juice-20230510.zip",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-beta-2-juice-20230510-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "a919f17dc446915c7211656ba79ef045e0f69d9c13cc093a67e855014dd882f6",
+      "size": "2119700177",
+      "build_type": "Beta",
+      "version_code": "2",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-05-05",
+      "changelog_device": "Fixed double tap to wake and offline charger"
+    },
+    {
       "date": "2023-04-21",
       "datetime": "1681980412",
       "filename": "aospa-topaz-beta-1-juice-20230420.zip",
