@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-05-13",
+      "datetime": "1683427767",
+      "filename": "aospa-topaz-3-oneplus5-20230507.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-3-oneplus5-20230507.zip",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-3-oneplus5-20230507-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "fdd1db65f10826cacd8d01ef47e81be4dd095686a22000e5a34af2bab0120438",
+      "size": "1666883515",
+      "build_type": "Stable",
+      "version_code": "3",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-05-05",
+      "changelog_device": ""
+    },
+    {
       "date": "2023-04-26",
       "datetime": "1682468712",
       "filename": "aospa-topaz-2.1-oneplus5-20230426.zip",
