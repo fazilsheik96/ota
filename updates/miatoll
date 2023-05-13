@@ -16,7 +16,7 @@
       "android_version": "13",
       "android_spl": "2023-04-05",
       "changelog_device": "Performance and battery improvements, Reduced status bar padding, Fixed LED indicator while offline charging"
-    }
+    },
     {
       "date": "2023-02-18",
       "datetime": "1676747126",
