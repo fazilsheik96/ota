@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-05-14",
+      "datetime": "1684368000",
+      "filename": "aospa-topaz-2-lisa-20230514.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-2-lisa-20230514.zip",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-2-lisa-20230514-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "2d5d46599943618b3e3669f3524e3f49bfa118f45829909c47b913f36f0ff226",
+      "size": "2052277104",
+      "build_type": "Stable",
+      "version_code": "2",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-05-05",
+      "changelog_device": "Updated miui camera to Leica edition, Reduced default screen density to 400 dpi, Added MGLRU for better memory management"
+    },
+    {
       "date": "2023-04-26",
       "datetime": "1682391678",
       "filename": "aospa-topaz-1-lisa-20230425.zip",
