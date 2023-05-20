@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-05-20",
+      "datetime": "1684387740",
+      "filename": "aospa-topaz-1.1-vayu-20230518.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-1.1-vayu-20230518.zip",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-1.1-vayu-20230518-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "ce641875434cfb5c09332587e56b40bfe31fde66af75950e60224466a5b704f2",
+      "size": "2298355337",
+      "build_type": "Stable",
+      "version_code": "1.1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-05-05",
+      "changelog_device": "Fixed FPC Fingerprint, Fixed Random Reboots in deep sleep state, Fixed Voice over LTE, Configured hotspot SSID name"
+    },
+    {
       "date": "2023-05-14",
       "datetime": "1684016849",
       "filename": "aospa-topaz-1-vayu-20230513.zip",
