@@ -15,7 +15,7 @@
       "version": "Topaz",
       "android_version": "13",
       "android_spl": "2023-05-05",
-      "changelog_device": "Fixed FPC Fingerprint, Fixed Random Reboots in deep sleep state, Fixed Voice over LTE, Configured hotspot SSID name"
+      "changelog_device": "Fixed FPC Fingerprint, Fixed Random Reboots in deep sleep state, Fixed Voice over LTE, Set hotspot SSID name"
     },
     {
       "date": "2023-05-14",
