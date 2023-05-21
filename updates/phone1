@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-05-21",
+      "datetime": "1684627200",
+      "filename": "aospa-topaz-3.1-phone1-20230521.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-3.1-phone1-20230521.zip",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-3.1-phone1-20230521-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "a03474480c2859a137f25166293d0bce8cd0dfbfbc0a890e18f9ff7aa997ecad",
+      "size": "1871599902",
+      "build_type": "Stable",
+      "version_code": "3.1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-05-05",
+      "changelog_device": "Improved vibration intensity settings"
+    },
+    {
       "date": "2023-05-11",
       "datetime": "1683763200",
       "filename": "aospa-topaz-3-phone1-20230511.zip",
