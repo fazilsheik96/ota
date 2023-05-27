@@ -1,0 +1,21 @@
+{
+  "updates": [
+    {
+      "date": "2023-05-26",
+      "datetime": "1685145600",
+      "filename": "aospa-topaz-beta-1-sunny-20230526.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-beta-1-sunny-20230526.zip",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-beta-1-sunny-20230526-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "9bc1a75a2a1846dfcb33799eff682b547fe631de646c1f6a0c6d07efc49ae6c6",
+      "size": "2031684605",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-05-05",
+      "changelog_device": "Initial Beta release"
+    }
+   ]
+}
