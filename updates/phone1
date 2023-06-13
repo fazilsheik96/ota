@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-06-13",
+      "datetime": "1686614400",
+      "filename": "aospa-topaz-4-phone1-20230613.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-4-phone1-20230613.zip",
+      "recovery_sha256": "e5b5442bbbbdbd7ddc6bf606dfd23a1368e83c2410cc982b69315e89bec0dfc0",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-4-phone1-20230613-image.zip",
+      "fastboot_sha256": "efe34d7488cda6c8f185376a1a96624796ca519f713589f2116cf28c9f8f48f9",
+      "mirror": "",
+      "telegram": "",
+      "id": "e5b5442bbbbdbd7ddc6bf606dfd23a1368e83c2410cc982b69315e89bec0dfc0",
+      "size": "1871599902",
+      "build_type": "Stable",
+      "version_code": "4",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-05-05",
+      "changelog_device": "Added Nothing camera, Added wireless reverse charging, Fixed smoothness issues, Improved Glyphs performance, Check for proximity on single double tap and pickup, Fixed offline charging, Updated vendor code to NothingOS 1.5.4, Enabled native carried video calling for Airtel India"
+    },
+    {
       "date": "2023-05-21",
       "datetime": "1684627200",
       "filename": "aospa-topaz-3.1-phone1-20230521.zip",
