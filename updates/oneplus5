@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-06-25",
+      "datetime": "1687651200",
+      "filename": "aospa-topaz-4-oneplus5-20230625.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-4-oneplus5-20230625.zip",
+      "recovery_sha256": "822c3b2f12350f677633d728e31d80fb3c8bf885bdfd892699700a500bbd5dab",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-4-oneplus5-20230625-image.zip",
+      "fastboot_sha256": "90fdb40beb27a20d0cf3533e1104fd29bc3d5fc114d6ce673705e6718ef6cf3a",
+      "mirror": "",
+      "telegram": "",
+      "id": "822c3b2f12350f677633d728e31d80fb3c8bf885bdfd892699700a500bbd5dab",
+      "size": "1674909938",
+      "build_type": "Stable",
+      "version_code": "4",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-06-05",
+      "changelog_device": "Disabled unsupported wifi overlays, Sepolicy fixes, Fixed power off alarm"
+    },
+    {
       "date": "2023-05-13",
       "datetime": "1683427767",
       "filename": "aospa-topaz-3-oneplus5-20230507.zip",
