@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-06-25",
+      "datetime": "1687651200",
+      "filename": "aospa-topaz-5-phone1-20230625.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-5-phone1-20230625.zip",
+      "recovery_sha256": "c2d68000bfc46e6ddab1e7baea8e876050181a41973c5a816ad4f676933c4bfd",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-5-phone1-20230625-image.zip",
+      "fastboot_sha256": "de8f6e9220fa1e75d4b21d7130fa02f175b38a3247279b4d7ccf52d1177a2c5b",
+      "mirror": "",
+      "telegram": "",
+      "id": "c2d68000bfc46e6ddab1e7baea8e876050181a41973c5a816ad4f676933c4bfd",
+      "size": "2208029332",
+      "build_type": "Stable",
+      "version_code": "5",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-06-05",
+      "changelog_device": "Added SecureNFC"
+    },
+    {
       "date": "2023-06-13",
       "datetime": "1686614400",
       "filename": "aospa-topaz-4-phone1-20230613.zip",
