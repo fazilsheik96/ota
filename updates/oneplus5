@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-07-07",
+      "datetime": "1688688000",
+      "filename": "aospa-topaz-5-oneplus5-20230707.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-5-oneplus5-20230707.zip",
+      "recovery_sha256": "cea4233029e25d4420d2a6352bf0087fcdd4303ed9d7dbe9ee4462224c8fe34d",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-5-oneplus5-20230707-image.zip",
+      "fastboot_sha256": "052c19c5a6b6d5062da666158d936dfb1bb8e8604316a9b935966f4f259c3dbf",
+      "mirror": "",
+      "telegram": "",
+      "id": "cea4233029e25d4420d2a6352bf0087fcdd4303ed9d7dbe9ee4462224c8fe34d",
+      "size": "1675839277",
+      "build_type": "Stable",
+      "version_code": "5",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-07-05",
+      "changelog_device": "Update GPS code base"
+    },
+    {
       "date": "2023-06-25",
       "datetime": "1687651200",
       "filename": "aospa-topaz-4-oneplus5-20230625.zip",
