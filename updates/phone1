@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-07-09",
+      "datetime": "1688860800",
+      "filename": "aospa-topaz-6-phone1-20230709.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-6-phone1-20230709.zip",
+      "recovery_sha256": "a62968dc0d0614a86f8ed6415ab012c59053e694a7f1792b8966abb036487509",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-6-phone1-20230709-image.zip",
+      "fastboot_sha256": "ac310efe8a6dfcd1fad44642a17b11d3307b44c560fd2726d92d03e302f45c88",
+      "mirror": "",
+      "telegram": "",
+      "id": "a62968dc0d0614a86f8ed6415ab012c59053e694a7f1792b8966abb036487509",
+      "size": "2575487256",
+      "build_type": "Stable",
+      "version_code": "6",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-07-05",
+      "changelog_device": "Updated to NothingOS 1.5.5 blobs, Updated NFC to Android 13 implementation, Set better paddings for GBoard"
+    },
+    {
       "date": "2023-06-25",
       "datetime": "1687651200",
       "filename": "aospa-topaz-5-phone1-20230625.zip",
