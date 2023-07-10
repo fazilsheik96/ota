@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-07-10",
+      "datetime": "1688947200",
+      "filename": "aospa-topaz-4-oneplus7pro-20230710.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-4-oneplus7pro-20230710.zip",
+      "recovery_sha256": "0a5651874371c01801aadb769c034cf238ad4ee1aacd6520b85ff5997bf43092",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-4-oneplus7pro-20230710-image.zip",
+      "fastboot_sha256": "65f95612eabe8e0721c850d3bf2aee04abdb6e1e6eb1842b7b387e25f37f6717",
+      "mirror": "",
+      "telegram": "",
+      "id": "0a5651874371c01801aadb769c034cf238ad4ee1aacd6520b85ff5997bf43092",
+      "size": "1905449098",
+      "build_type": "Stable",
+      "version_code": "4",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-07-05",
+      "changelog_device": "Added support power off alarm, Fixed random lag after waking"
+    },
+    {
       "date": "2023-05-11",
       "datetime": "1683763200",
       "filename": "aospa-topaz-3-oneplus7pro-20230511.zip",
