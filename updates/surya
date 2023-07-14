@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-07-14",
+      "datetime": "1689292800",
+      "filename": "aospa-topaz-1-surya-20230714.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-1-surya-20230714.zip",
+      "recovery_sha256": "0d82b51ba8a12f402d5a9eae97ec74b93d87e7fb47ded79bc864fcb0b6cb534e",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-1-surya-20230714-image.zip",
+      "fastboot_sha256": "856dae5ceba74c06a9199986fc7975ed8553c94d8db9f595a301d4cf99c5b446",
+      "mirror": "",
+      "telegram": "",
+      "id": "0d82b51ba8a12f402d5a9eae97ec74b93d87e7fb47ded79bc864fcb0b6cb534e",
+      "size": "2325876213",
+      "version": "Topaz",
+      "build_type": "Stable",
+      "version_code": "1",
+      "android_version": "13",
+      "android_spl": "2023-07-05",
+      "changelog_device": "First stable release"
+    },
+    {
       "date": "2022-02-06",
       "datetime": "1645142400",
       "filename": "aospa-sapphire-2-surya-alpha-20220206.zip",
