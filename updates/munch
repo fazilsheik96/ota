@@ -8,7 +8,7 @@
       "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-1-munch-20230426-image.zip",
       "mirror": "",
       "telegram": "",
-      "id": "4fa0af6122fa93f64bec16754da7ecf3fd2e99579fb9478f9aecdd92fd736336",
+      "id": "topaz-stable-1",
       "size": "1928462513",
       "build_type": "Stable",
       "version_code": "1",

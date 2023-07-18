@@ -8,7 +8,7 @@
       "fastboot": "https://github.com/AOSPA/android_device_google_pantah/releases/download/topaz-beta-1-panther/aospa-topaz-beta-1-panther-20221119-image.zip",
       "mirror": "",
       "telegram": "https://t.me/paranoidaospa/116",
-      "id": "31C9CF255C9D0415A63C30640688A9B62E5A174635FD27F87DD6FA05C9BF433A",
+      "id": "topaz-beta-1",
       "size": "1726766778",
       "build_type": "Beta",
       "version_code": "1",
