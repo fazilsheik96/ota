@@ -777,7 +777,7 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-xiaomi-mi-10.4370977/"
           },
           {
-               "name": "Mi 10T",
+               "name": "Mi 10T / Mi 10T Pro",
                "codename": "apollo",
                "manufacturer": "Xiaomi",
                "active": true,
@@ -788,21 +788,7 @@
                          "country": "IN"
                     }
                ],
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-xiaomi-mi-10t-10t-pro.4379539/"
-          },
-          {
-               "name": "Mi 10T Pro",
-               "codename": "apollo",
-               "manufacturer": "Xiaomi",
-               "active": true,
-               "maintainers": [
-                    {
-                         "name": "mahajant99",
-                         "link": "https://forum.xda-developers.com/m/mahajant99.9505787/",
-                         "country": "IN"
-                    }
-               ],
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-xiaomi-mi-10t-10t-pro.4379539/"
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-xiaomi-mi-10t-10t-pro.4607351/"
           },
           {
                "name": "Mi 11X",

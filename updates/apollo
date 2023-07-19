@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-07-17",
+      "datetime": "1689552000",
+      "filename": "aospa-topaz-beta-1-apollo-20230717.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-beta-1-apollo-20230717.zip",
+      "recovery_sha256": "a4b6c19fc4d3521944aa3a5a42448d1579f6c20a5f932684e22b12d31da93b11",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-beta-1-apollo-20230717-image.zip",
+      "fastboot_sha256": "d06eb5d6be8a41b78b95ad6547e67d5022e8ba78ae0e4a31b5d4bf95726e7fad",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-beta-1",
+      "size": "2340706983",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-07-05",
+      "changelog_device": "Initial beta release"
+    },
+    {
       "date": "2022-08-13",
       "datetime": "1660424614",
       "filename": "aospa-sapphire-1-apollo-beta-20220813-image.zip",
