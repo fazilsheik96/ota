@@ -328,7 +328,7 @@
                "name": "F3",
                "codename": "alioth",
                "manufacturer": "POCO",
-               "active": true,
+               "active": false,
                "maintainers": [
                     {
                          "name": "GKAndroid",
@@ -580,7 +580,7 @@
                "name": "K40",
                "codename": "alioth",
                "manufacturer": "Redmi",
-               "active": true,
+               "active": false,
                "maintainers": [
                     {
                          "name": "GKAndroid",
@@ -780,7 +780,7 @@
                "name": "Mi 11X",
                "codename": "alioth",
                "manufacturer": "Xiaomi",
-               "active": true,
+               "active": false,
                "maintainers": [
                     {
                          "name": "GKAndroid",
