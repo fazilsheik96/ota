@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-07-22",
+      "datetime": "1689934177",
+      "filename": "aospa-topaz-beta-2-sunny-202307222.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-beta-2-sunny-202307222.zip",
+      "recovery_sha256": "2309198d1bfe1b51619f7442691c783a272a158cd4cf1691f2046c652c97fd82",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-beta-2-sunny-202307222-image.zip",
+      "fastboot_sha256": "0b65c0a632a18967766c7627025ae3fb38e9bbb6abc539f7981782ad8f776677",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-beta-2",
+      "size": "2037397287",
+      "build_type": "Beta",
+      "version_code": "2",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-07-05",
+      "changelog_device": "Fix IR, Fix Dual Sim Selection, Update blobs from LA.UM.9.1.r1-12900-SMxxx0.0, Merge LA.UM.9.1.r1-12900-SMxxx0.0 in kernel, Update F2FS from f2fs-stable."
+    },
+    {
       "date": "2023-05-26",
       "datetime": "1685145600",
       "filename": "aospa-topaz-beta-1-sunny-20230526.zip",
