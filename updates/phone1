@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-07-22",
+      "datetime": "1689934177",
+      "filename": "aospa-topaz-7-phone1-20230721.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-7-phone1-20230721.zip",
+      "recovery_sha256": "c894a114ad3c999f6178a6e67a133a8f7643f158bd2af324bd1eb59e0c759524",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-7-phone1-20230721-image.zip",
+      "fastboot_sha256": "3460d3d0d5d1a19720ea5d298373e92b3f13353a2b2139d874181f5b98cdf54e",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-7",
+      "size": "2204129894",
+      "build_type": "Stable",
+      "version_code": "7",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-07-05",
+      "changelog_device": "Added Glyph Essential Notifications, Added Glyph volume indicator, Added Nothing OS 2.0 Glyph animations, Improved Glyph performance"
+    },
+    {
       "date": "2023-07-09",
       "datetime": "1688860800",
       "filename": "aospa-topaz-6-phone1-20230709.zip",
