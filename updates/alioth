@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-07-23",
+      "datetime": "1690133694",
+      "filename": "aospa-topaz-3-alioth-20230723.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-3-alioth-20230723.zip",
+      "recovery_sha256": "0429a0e825cda4481bb9e8b2ed482db3a8d365f16860eb236c2df49d194f65fa",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-3-alioth-20230723-image.zip",
+      "fastboot_sha256": "4a2c92097363dfd68a70328808362f6200d81a790c03cfe79916653b9debbf2d",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-3",
+      "size": "2182094095",
+      "build_type": "Stable",
+      "version_code": "3",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-07-05",
+      "changelog_device": ""
+    },
+    {
       "date": "2023-05-10",
       "datetime": "1683673584",
       "filename": "aospa-topaz-2-alioth-20230509.zip",
