@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-07-25",
+      "datetime": "1690243200",
+      "filename": "aospa-topaz-2-davinci-20230725.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-2-davinci-20230725.zip",
+      "recovery_sha256": "c2697b6a0baaedc547c4b38984d44a6eddde12d19b0baba88b6277513c1ba7de",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-2-davinci-20230725-image.zip",
+      "fastboot_sha256": "55a4f53944e1bcb8b6f4b0ce78bfba86924640cbd7868694e2bf67a36ed48732",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-2",
+      "size": "2193829242",
+      "build_type": "Stable",
+      "version_code": "2",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-07-05",
+      "changelog_device": "Set 240Hz touch sampling on boot."
+    },
+    {
       "date": "2023-04-27",
       "datetime": "1682389925",
       "filename": "aospa-topaz-1-davinci-20230425.zip",
