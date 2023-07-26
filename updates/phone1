@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-07-26",
+      "datetime": "1690329600",
+      "filename": "aospa-topaz-7.1-phone1-20230726.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-7.1-phone1-20230726.zip",
+      "recovery_sha256": "102c7fb4d13f52dce6473c6ec13a72bd3ff859acf11767575860e7845fd8e306",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-7.1-phone1-20230726-image.zip",
+      "fastboot_sha256": "9a84444168c4387f931ca4c2e57f56ac0b5c252ed243b6ee55e349c097a03e80",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-7.1",
+      "size": "2207962005",
+      "build_type": "Stable",
+      "version_code": "7.1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-07-05",
+      "changelog_device": "Fixed GPS in some rare cases"
+    },
+    {
       "date": "2023-07-22",
       "datetime": "1689934177",
       "filename": "aospa-topaz-7-phone1-20230721.zip",
