@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-08-12",
+      "datetime": "1691859771",
+      "filename": "aospa-topaz-5-oneplus7t-20230812.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-5-oneplus7t-20230812.zip",
+      "recovery_sha256": "82ad91af0ef6e7c1c0a1e47965a99e2f8b983afcf524e36ea26d97c1d09b4b8f",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-5-oneplus7t-20230812-image.zip",
+      "fastboot_sha256": "e85e8eed7d31ad882b147a92791e8db9d1aab922fb24b2190c04b63b79215af3",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-5",
+      "size": "1919703069",
+      "build_type": "Stable",
+      "version_code": "5",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-08-05",
+      "changelog_device": "Fix freezes during Always On Display"
+    },
+    {
       "date": "2023-07-10",
       "datetime": "1688947200",
       "filename": "aospa-topaz-4-oneplus7t-20230710.zip",
