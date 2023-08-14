@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-08-14",
+      "datetime": "1691933400",
+      "filename": "aospa-topaz-3-oneplus9-20230813.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-3-oneplus9-20230813.zip",
+      "recovery_sha256": "d395afdd7ee99a041848e59c72aca5d10b38845aba3aebc24796bc200ea11e12",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-3-oneplus9-20230813-image.zip",
+      "fastboot_sha256": "bae5ef7507859ef2206ee0da259a2c57d9aa155c0a2c31601e36340a41961d7c",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-3",
+      "size": "2032921752",
+      "build_type": "Stable",
+      "version_code": "3",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-08-05",
+      "changelog_device": "Implemented OxygenOS Camera"
+    },
+    {
       "date": "2023-08-03",
       "datetime": "1691020800",
       "filename": "aospa-topaz-2-oneplus9-20230803.zip",
