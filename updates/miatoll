@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-08-14",
+      "datetime": "1691950893",
+      "filename": "aospa-topaz-3-miatoll-20230813.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-3-miatoll-20230813.zip",
+      "recovery_sha256": "67a853df812a9e71baeffbfaf8bf99de379dafa58531a3b6",
+      "fastboot": "",
+      "fastboot_sha256": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-3",
+      "size": "2197347252",
+      "build_type": "Stable",
+      "version_code": "3",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-08-05",
+      "changelog_device": "Updated blobs from curtana V14.0.4.0.SJWMIXM, Enabled secure NFC, Included MiCamera"
+    },
+    {
       "date": "2023-05-12",
       "datetime": "1683788417",
       "filename": "aospa-topaz-3-miatoll-20230511.zip",
