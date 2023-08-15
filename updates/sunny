@@ -17,7 +17,7 @@
       "version": "Topaz",
       "android_version": "13",
       "android_spl": "2023-08-05",
-      "changelog_device": "Fix Power Off Alarm, Fix Widevine L1"
+      "changelog_device": "Fixed Power Off Alarm, Fixed Widevine L1"
     },
     {
       "date": "2023-07-22",
@@ -36,7 +36,7 @@
       "version": "Topaz",
       "android_version": "13",
       "android_spl": "2023-07-05",
-      "changelog_device": "Fix IR, Fix Dual Sim Selection, Update blobs from LA.UM.9.1.r1-12900-SMxxx0.0, Merge LA.UM.9.1.r1-12900-SMxxx0.0 in kernel, Update F2FS from f2fs-stable."
+      "changelog_device": "Fixed IR, Fixed Dual Sim Selection, Updated blobs from LA.UM.9.1.r1-12900-SMxxx0.0, Merged LA.UM.9.1.r1-12900-SMxxx0.0 in kernel, Updated F2FS from f2fs-stable."
     },
     {
       "date": "2023-05-26",
