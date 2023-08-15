@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-08-14",
+      "datetime": "1691971200",
+      "filename": "aospa-topaz-8-phone1-20230814.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-8-phone1-20230814.zip",
+      "recovery_sha256": "e4636dae757271e8b82ac4ce4e13c04dac5edf17813ae8e2c307c298ba13b72e",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-8-phone1-20230814-image.zip",
+      "fastboot_sha256": "4fb6e226fe04739e11cb7af2291b0c2e617db5e65734760a3bc195c8c1b0bc3a",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-8",
+      "size": "2207860873",
+      "build_type": "Stable",
+      "version_code": "8",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-08-05",
+      "changelog_device": "Fixed battery high usage in some cases"
+    },
+    {
       "date": "2023-07-26",
       "datetime": "1690329600",
       "filename": "aospa-topaz-7.1-phone1-20230726.zip",
