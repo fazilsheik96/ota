@@ -1,0 +1,23 @@
+{
+  "updates":[
+    {
+      "date": "2023-08-27",
+      "datetime": "1693063718",
+      "filename": "aospa-topaz-1-dubai-20230826.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-1-dubai-20230826.zip",
+      "recovery_sha256": "effb3890620191a0d8106b90e8a3e21e966aa3d67f3ba41635e88a0fdb592594",
+      "fastboot": "",
+      "fastboot_sha256": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-1",
+      "size": "1869609539",
+      "build_type": "Stable",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-08-05",
+      "changelog_device": "Initial Release"
+     }
+   ]
+}
