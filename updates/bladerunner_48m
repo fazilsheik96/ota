@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-08-20",
+      "datetime": "1692559522",
+      "filename": "aospa-topaz-2-bladerunner_48m-20230820.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-2-bladerunner_48m-20230820.zip",
+      "recovery_sha256": "fc222fa7b74036699d6dcd5541a47311eb8bc7498aa59c24041c976e49f81785",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-2-bladerunner_48m-20230820-image.zip",
+      "fastboot_sha256": "36c183b495be6d2895445d43af8d87a8e0dafceb10b8598954aa8eacb90082b3",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-2",
+      "size": "2733224037",
+      "build_type": "Stable",
+      "version_code": "2",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-08-05",
+      "changelog_device": "Added more offscreen gestures, Compiled the kernel with full LLVM, Enabled clang ThinLTO on kernel, Enabled shadow call stack on kernel, Fixed hotspot issues, Fixed some wifi issues, Fixed USB OTG for some users, Improved FOD, Merged August 2023 ASB tag into kernel, Misc kernel and performance improvements, Reworked thermal behavior, Reworked CPU cores limitations with battery saver enabled, Updated all common blobs to RMX3370_11.F.07, Updated kernel lz4 driver to android15-6.1 branch"
+    },
+    {
       "date": "2023-04-27",
       "datetime": "1682553600",
       "filename": "aospa-topaz-1-bladerunner_48m-20230427.zip",
