@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-08-14",
+      "datetime": "1691980606",
+      "filename": "aospa-topaz-3-bitra-20230814",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-3-bitra-20230814.zip",
+      "recovery_sha256": "b03ae0db50e1f3098a1e5ac7061e5acf8725d50c4ae99b87c1db543d0e7aec64",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-3-bitra-20230814-image.zip",
+      "fastboot_sha256": "d2ba8a2293cdd91d857ae3020a60cb4c6f666ad15bc5875e6a77b56e8ba77228",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-3",
+      "size": "2744398988",
+      "build_type": "Stable",
+      "version_code": "3",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-08-05",
+      "changelog_device": "Compiled the kernel with full LLVM, Enabled clang ThinLTO on kernel, Enabled shadow call stack on kernel, Fixed realmeUI RMX3370_11.F.05 and newer firmware compatibility, Fixed USB OTG for some users, Merged August 2023 ASB into kernel, Updated kernel lz4 driver to android15-6.1 branch"
+    },
+    {
       "date": "2023-07-22",
       "datetime": "1689934177",
       "filename": "aospa-topaz-2-bitra-20230722",
