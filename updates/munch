@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-09-18",
+      "datetime": "1694995200",
+      "filename": "aospa-topaz-3-munch-20230918.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-3-munch-20230918.zip",
+      "recovery_sha256": "e655ac01a5d9fdbe0a2baa0185184d148af6046b66d8591275370ea14b76d65c",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-3-munch-20230918-image.zip",
+      "fastboot_sha256": "11c74dd837513720ac0db9e26745e194fdb336680d73b9d7731201a21f8bc0b9",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-3",
+      "size": "1989141890",
+      "build_type": "Stable",
+      "version_code": "3",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-09-05",
+      "changelog_device": "Set AOD refresh rate to 60 Hz, Enabled Secure NFC feature, Added Dolby Atmos"
+    },
+    {
       "date": "2023-07-22",
       "datetime": "1689934177",
       "filename": "aospa-topaz-2-munch-20230722.zip",
