@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-09-18",
+      "datetime": "1694995200",
+      "filename": "aospa-topaz-6-oneplus7pro-20230918.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-6-oneplus7pro-20230918.zip",
+      "recovery_sha256": "0e594e89dc28635327b13d90824ae0aff4f279185526cb19ac94c94f8e361b51",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-6-oneplus7pro-20230918-image.zip",
+      "fastboot_sha256": "2e73f04d9dc1f0e5a359307376a978ab83c7a3fb3ea993e2d556760af663c0cb",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-6",
+      "size": "1905776594",
+      "build_type": "Stable",
+      "version_code": "6",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-09-05",
+      "changelog_device": ""
+    },
+    {
       "date": "2023-08-12",
       "datetime": "1691857221",
       "filename": "aospa-topaz-5-oneplus7pro-20230812.zip",
