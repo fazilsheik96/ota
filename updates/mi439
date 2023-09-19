@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-09-18",
+      "datetime": "1695032611",
+      "filename": "aospa-topaz-5-mi439-20230918.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-5-mi439-20230918.zip",
+      "recovery_sha256": "3343626d9175ae90ee3f486cdbd4d1a4ade9ae026e38dcceea8a18201938dca7",
+      "fastboot": "",
+      "fastboot_sha256": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-4",
+      "size": "1737270763",
+      "build_type": "Stable",
+      "version_code": "5",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-09-05",
+      "changelog_device": "Improved Performance, Improved RAM Management."
+    },
+    {
       "date": "2023-08-12",
       "datetime": "1691873173",
       "filename": "aospa-topaz-4-mi439-20230812.zip",
