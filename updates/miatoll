@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-09-20",
+      "datetime": "1695235404",
+      "filename": "aospa-topaz-4-miatoll-20230920.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-4-miatoll-20230920.zip",
+      "recovery_sha256": "7d5174e124837f6c7691db34f51e884d0684a06ef047d3365f77026276e388b0",
+      "fastboot": "",
+      "fastboot_sha256": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-4",
+      "size": "2194079974",
+      "build_type": "Stable",
+      "version_code": "4",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-09-05",
+      "changelog_device": "- Enabled Wide Color Gamut support, Fixed 60FPS recording, Fixed slow boot up issues, And some misc under the hood changes"
+    },
+    {
       "date": "2023-08-14",
       "datetime": "1691950893",
       "filename": "aospa-topaz-3-miatoll-20230813.zip",
