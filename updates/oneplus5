@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-09-21",
+      "datetime": "1695131625",
+      "filename": "aospa-topaz-8-oneplus5-20230919.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-8-oneplus5-20230919.zip",
+      "recovery_sha256": "e08e92a749dfeef1e8062192898150c3691234af13de4d908704e39ada8aae65",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-8-oneplus5-20230919-image.zip",
+      "fastboot_sha256": "0650b2dd61ceefeffd889555257b68ac2bb02b8585f105f5f7ebf0c0dca50b56",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-8",
+      "size": "1673484956",
+      "build_type": "Stable",
+      "version_code": "8",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-09-05",
+      "changelog_device": "Fixed aptX"
+    },
+    {
       "date": "2023-08-13",
       "datetime": "1691884800",
       "filename": "aospa-topaz-7-oneplus5-20230812.zip",
