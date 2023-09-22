@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-09-19",
+      "datetime": "1695372124",
+      "filename": "aospa-topaz-beta-4-sunny-20230919.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-beta-4-sunny-20230919.zip",
+      "recovery_sha256": "fc6c3077525f8717e208703a55a693ed84c8427db256b0f079e6a7a607925e4b",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-beta-4-sunny-20230919-image.zip",
+      "fastboot_sha256": "36abc2b9f122dedb3938f1a354ae682884aa627c5525bee9db9a63f88542ee65",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-beta-4",
+      "size": "2037538739",
+      "build_type": "Beta",
+      "version_code": "4",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-08-19",
+      "changelog_device": "Kernel at r17a6 state, Updated KProfiles interface to v6.0.0, Increased maximum brightness to 4095 to restore maximum manual brightness."
+    },
+    {
       "date": "2023-08-14",
       "datetime": "1692027159",
       "filename": "aospa-topaz-beta-3-sunny-20230814.zip",
