@@ -878,6 +878,20 @@
                     }
                ],
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-motorola-edge-30.4621245/"
+          },
+          {
+               "name": "13",
+               "codename": "fuxi",
+               "manufacturer": "Xiaomi",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "33bca",
+                         "link": "https://forum.xda-developers.com/m/33bca.5296790/",
+                         "country": "CH"
+                    }
+               ],
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-alpha-1-xiaomi-13.4630549/"
           }
      ]
 }
