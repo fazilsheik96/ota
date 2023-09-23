@@ -16,7 +16,7 @@
       "version_code": "4",
       "version": "Topaz",
       "android_version": "13",
-      "android_spl": "2023-08-19",
+      "android_spl": "2023-09-05",
       "changelog_device": "Kernel at r17a6 state, Updated KProfiles interface to v6.0.0, Increased maximum brightness to 4095 to restore maximum manual brightness."
     },
     {
