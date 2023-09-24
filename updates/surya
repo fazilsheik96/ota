@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-09-23",
+      "datetime": "1695239924",
+      "filename": "aospa-topaz-4-surya-20230920.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-4-surya-20230920.zip",
+      "recovery_sha256": "af5ca7ca81cf1abfe649776eca82e9443ae05de46df4f7186383531155b4879c",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-4-surya-20230920-image.zip",
+      "fastboot_sha256": "2f7c459699e0dd714382e9c2aac6e94e9e2d175ea0368fac4c69fee305ed65a7",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-3",
+      "size": "2327936151",
+      "build_type": "Stable",
+      "version_code": "3",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-09-05",
+      "changelog_device": "Fixed disabling proximity sensor on Always On Display, Fixed GPS and media playback issues, Enabled HDR10 in Netflix, Improved memory management, Other bug fixes"
+    },
+    {
       "date": "2023-07-27",
       "datetime": "1690416000",
       "filename": "aospa-topaz-2-surya-20230727.zip",
