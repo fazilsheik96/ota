@@ -1,9 +1,28 @@
 {
   "updates": [
     {
+      "date": "2023-09-23",
+      "datetime": "1695146518",
+      "filename": "aospa-topaz-4-bitra-20230919.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-4-bitra-20230919.zip",
+      "recovery_sha256": "b07380383988e15c17822499c00c69a431222e4e0b565de9e3f5181798223633",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-4-bitra-20230919-image.zip",
+      "fastboot_sha256": "5f725c4c1f04336b3349d94a1e10446b7ebf9f10562d302a2ef1578b0d816c52",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-4",
+      "size": "2758508131",
+      "build_type": "Stable",
+      "version_code": "4",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-09-05",
+      "changelog_device": "Added support for OZO Audio, Enabled Secure NFC, Fixed compatibility with realmeUI RMX3370_13.1.0.XXX and newer firmware, Fixed UDFPS sensor location, Improved performance"
+    },
+    {
       "date": "2023-08-14",
       "datetime": "1691980606",
-      "filename": "aospa-topaz-3-bitra-20230814",
+      "filename": "aospa-topaz-3-bitra-20230814.zip",
       "url": "https://builds.paranoidandroid.co/aospa-topaz-3-bitra-20230814.zip",
       "recovery_sha256": "b03ae0db50e1f3098a1e5ac7061e5acf8725d50c4ae99b87c1db543d0e7aec64",
       "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-3-bitra-20230814-image.zip",
@@ -22,7 +41,7 @@
     {
       "date": "2023-07-22",
       "datetime": "1689934177",
-      "filename": "aospa-topaz-2-bitra-20230722",
+      "filename": "aospa-topaz-2-bitra-20230722.zip",
       "url": "https://builds.paranoidandroid.co/aospa-topaz-2-bitra-20230722.zip",
       "recovery_sha256": "bd94dc953ceb03b9b6b52d7a858c41345794272c939b27cb2404c7877d2e27c1",
       "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-2-bitra-20230722-image.zip",
