@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-09-23",
+      "datetime": "1695074959",
+      "filename": "aospa-topaz-5-alioth-20230918.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-5-alioth-20230918.zip",
+      "recovery_sha256": "33c0fd94ae731fef77e55b5f13d9ca5c900029eadfb3259460f464fc17e9861b",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-5-alioth-20230918-image.zip",
+      "fastboot_sha256": "600407de2a6bba60379d4ed86b52e14769bc767e33a17b8296292ed558466f33",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-5",
+      "size": "2252244978",
+      "build_type": "Stable",
+      "version_code": "5",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-09-05",
+      "changelog_device": "Fixed Secure NFC, Implemented Dolby Atmos, Configured Automatic High Brightness Mode, Other fixes and improvements"
+    },
+    {
       "date": "2023-08-25",
       "datetime": "1692940371",
       "filename": "aospa-topaz-4-alioth-20230825.zip",
