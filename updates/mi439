@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-10-08",
+      "datetime": "1696793556",
+      "filename": "aospa-topaz-6-mi439-20231008.zip",
+      "url": "http://builds.paranoidandroid.co/aospa-topaz-6-mi439-20231008.zip",
+      "recovery_sha256": "d2670bf43331a0c564cb450544257acb87965163689544d503ffa7856a139791",
+      "fastboot": "",
+      "fastboot_sha256": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-6",
+      "size": "1737257899",
+      "build_type": "Stable",
+      "version_code": "6",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-10-05",
+      "changelog_device": "Show 4G icon instead of LTE"
+    },
+    {
       "date": "2023-09-18",
       "datetime": "1695032611",
       "filename": "aospa-topaz-5-mi439-20230918.zip",
@@ -10,7 +29,7 @@
       "fastboot_sha256": "",
       "mirror": "",
       "telegram": "",
-      "id": "topaz-stable-4",
+      "id": "topaz-stable-5",
       "size": "1737270763",
       "build_type": "Stable",
       "version_code": "5",
