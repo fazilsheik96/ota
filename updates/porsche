@@ -1,6 +1,25 @@
 {
   "updates":[
     {
+      "date": "2023-10-08",
+      "datetime": "1696759966",
+      "filename": "aospa-topaz-2-porsche-20231008.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-2-porsche-20231008.zip",
+      "recovery_sha256": "85328e80a0c830ca70e95d6f158e9f779c8406995230e44ddf4ddfe2eadb99d6",
+      "fastboot": "",
+      "fastboot_sha256": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-2",
+      "size": "2278396388",
+      "build_type": "Stable",
+      "version_code": "2",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-10-05",
+      "changelog_device": "Added Support For Dolby Atmos"
+    },
+    {
       "date": "2023-09-25",
       "datetime": "1695669745",
       "filename": "aospa-topaz-1.1-porsche-20230925.zip",
