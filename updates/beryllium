@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-10-08",
+      "datetime": "1696752865",
+      "filename": "aospa-topaz-6-beryllium-20231008.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-6-beryllium-20231008.zip",
+      "recovery_sha256": "9f116ccfe705a9793a0c3a1068fd9beeed7c146d354acfb1a875431bfb227a04",
+      "fastboot": "",
+      "fastboot_sha256": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-6",
+      "size": "2002240972",
+      "version": "Topaz",
+      "build_type": "Stable",
+      "version_code": "6",
+      "android_version": "13",
+      "android_spl": "2023-10-05",
+      "changelog_device": ""
+    },
+    {
       "date": "2023-08-14",
       "datetime": "1691908184",
       "filename": "aospa-topaz-5-beryllium-20230813.zip",
