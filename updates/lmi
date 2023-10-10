@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-10-08",
+      "datetime": "1696756254",
+      "filename": "aospa-topaz-6-lmi-20231008.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-6-lmi-20231008.zip",
+      "recovery_sha256": "3f730635230f80101d51f03e49f57a6665d4b17302eac51e69352a6b94300c94",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-6-lmi-20231008-image.zip",
+      "fastboot_sha256": "2e2dcde39e6fa286105a724cbad76f1ac032e5de79af11f3fdd7774771bd41fd",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-6",
+      "size": "2617959162",
+      "build_type": "Stable",
+      "version_code": "6",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-10-05",
+      "changelog_device": "Updated blobs to MIUI V14.0.1.0.SJKMIXM, Added SecureNFC, Major Fixes and Improvements"
+    },
+    {
       "date": "2023-08-26",
       "datetime": "1693055544",
       "filename": "aospa-topaz-5-lmi-20230826.zip",
