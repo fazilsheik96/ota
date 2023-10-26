@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-10-22",
+      "datetime": "1697958630",
+      "filename": "aospa-topaz-beta-2-apollo-20231022.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-beta-2-apollo-20231022.zip",
+      "recovery_sha256": "2aed0c2d92f6371895901576f6e3b6229e94b9076b367a2d59941812c63e6272",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-beta-2-apollo-20231022-image.zip",
+      "fastboot_sha256": "2b12824e06f6863077ac2f8672e30a93c1971a280cfbf7fd7edd7a4a7bfc67af",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-beta-2",
+      "size": "2337665020",
+      "build_type": "Beta",
+      "version_code": "2",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-10-05",
+      "changelog_device": "Updated blobs from V14.0.4.0.SJDMIXM, Fixed smooth display, Enable Performance Auth, Enable FUSE passthrough, Added performance tuning, Implement Pocket Detection service, Imported msm_irqbalance, Added per app maximum Refresh Rate, Refactor Clear Speaker Code"
+    },
+    {
       "date": "2023-07-17",
       "datetime": "1689552000",
       "filename": "aospa-topaz-beta-1-apollo-20230717.zip",
