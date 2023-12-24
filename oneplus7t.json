@@ -1,18 +1,19 @@
 {
   "response": [
     {
-      "datetime": 1703410165,
-      "filename": "aospa-uvite-1.0-oneplus7t-20231223.zip",
+      "datetime": 1703437864,
+      "filename": "aospa-uvite-1.0-oneplus7t-20231224.zip",
       "payload": [
         {
           "offset": 3880,
-          "FILE_HASH": "YiAcVGT+z/DnQfdjCdPVp2AVJ1VaX0EaSGy9vYrGhSw=",
-          "FILE_SIZE": "2229099712",
-          "METADATA_HASH": "ooKULZyIaFFVsaQ1YfmUalRoyKaXE6ufJTMBblSrISQ=",
-          "METADATA_SIZE": "88275"
+          "FILE_HASH": "0Q1Mo3Sd51JQTcDzTEc00/ixqpDJsgLCFc2pK6Icgyw=",
+          "FILE_SIZE": "2229088388",
+          "METADATA_HASH": "LrQ0e49zsyUMQKjs5DqTAIeKw+umKwc3qIzo35nnhiM=",
+          "METADATA_SIZE": "88276"
         }
       ]
     }
   ]
+}
 }
 
