@@ -1,0 +1,18 @@
+{
+  "response": [
+    {
+      "datetime": 1703410165,
+      "filename": "aospa-uvite-1.0-oneplus7t-20231223.zip",
+      "payload": [
+        {
+          "offset": 3880,
+          "FILE_HASH": "YiAcVGT+z/DnQfdjCdPVp2AVJ1VaX0EaSGy9vYrGhSw=",
+          "FILE_SIZE": "2229099712",
+          "METADATA_HASH": "ooKULZyIaFFVsaQ1YfmUalRoyKaXE6ufJTMBblSrISQ=",
+          "METADATA_SIZE": "88275"
+        }
+      ]
+    }
+  ]
+}
+
