@@ -1,16 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1703510398,
-      "filename": "aospa-uvite-1.0-oneplus7t-20231225.zip",
-      "url"     : "https://mega.nz/folder/wsEmDaiS#B6YzZd_qm4OYixpHFnimJw",
+      "datetime": 1703868312,
+      "filename": "aospa-uvite-1.0-oneplus7t-20231229-delta.zip",
       "payload": [
         {
-          "offset": 3880,
-          "FILE_HASH": "9+yX7E1sqBNSAXxfn/T1FQD6k0jXlQ153z+WuAqvjpw=",
-          "FILE_SIZE": "2019415325",
-          "METADATA_HASH": "R+Ix3n53Y06jJOtha0oUXK1IhWa34Swhwla490zi4bo=",
-          "METADATA_SIZE": "80652"
+          "offset": 4833,
+          "FILE_HASH": "ApA2Qz8tp/VqEUjQwjCeC7Eg1EYXGmbksHky38oPtPw=",
+          "FILE_SIZE": "6922008",
+          "METADATA_HASH": "T+U7C1rMWEPREZGGkAeqMxZf+tmmgtZD5OoCQcZDu6Q=",
+          "METADATA_SIZE": "80574"
         }
       ]
     }
