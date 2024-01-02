@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1704187953,
+      "datetime": 1704211928,
       "filename": "aospa-uvite-1.0-oneplus7t-20240102.zip",
       "payload": [
         {
           "offset": 3880,
-          "FILE_HASH": "igsen33FtkhIWWnW8P6Q3rnzewtskatnUdlPHcuAZEw=",
-          "FILE_SIZE": "1919295253",
-          "METADATA_HASH": "p2P6358g53Q1HIvzKTLZgPNvSuOaGNJPZ1V9MU5GgVI=",
+          "FILE_HASH": "WX3TeZA5xRJ3SlqhWhi/FYdPQzO9M02WAxZ6EAYSweU=",
+          "FILE_SIZE": "1919225010",
+          "METADATA_HASH": "RDpkIqh/g6m35zCvnDQ9PC0TkecYHFdA9zp0m/5f+FY=",
           "METADATA_SIZE": "78235"
         }
       ]
