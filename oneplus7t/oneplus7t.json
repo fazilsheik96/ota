@@ -1,18 +1,17 @@
 {
   "response": [
     {
-      "datetime": 1704611512,
+      "datetime": 1704632517,
       "filename": "aospa-uvite-1.0-oneplus7t-20240107-delta.zip",
       "payload": [
         {
-          "offset": 4931,
-          "FILE_HASH": "OIyKAzP0ly+eqL0g2q9gZjzZvNYmrJNynPij2pfycFY=",
-          "FILE_SIZE": "16998713",
-          "METADATA_HASH": "jAL3rkQi8JQgtdWz3nAITIFHm/R3uZIY5ishKEx0cyM=",
-          "METADATA_SIZE": "147532"
+          "offset": 4932,
+          "FILE_HASH": "UwWlBggW1kIavKicQWQXi/Hm5lTJcGt8nHDldLmoSjM=",
+          "FILE_SIZE": "31470549",
+          "METADATA_HASH": "b1JJijtlyXJeHbKqcphY2XHVYzRiGb0OnrO3CcJDI8I=",
+          "METADATA_SIZE": "159893"
         }
       ]
     }
   ]
 }
-
